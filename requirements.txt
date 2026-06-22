@@ -1,0 +1,4 @@
+rumps
+speedtest-cli
+py2app
+pytest
